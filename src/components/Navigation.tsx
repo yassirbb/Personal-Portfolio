@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Menu, X, Home, User, Code, Award } from 'lucide-react';
+import { Menu, X, Home, User } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Navigation = () => {

@@ -1,7 +1,5 @@
-import { ExternalLink } from 'lucide-react';
 import ProjectCard from './Card';
 import projects from './data';
-import { Link } from 'react-router-dom';
 import CurrentProject from './CurrentProject';
 const FeaturedProjects = () => {
 

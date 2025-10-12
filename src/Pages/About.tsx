@@ -1,5 +1,4 @@
-import { User, MapPin, Calendar, Mail, Github, Linkedin, Twitter, Code, Coffee, Heart, Wrench, BookOpen, Rocket, Phone } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { User, MapPin, Calendar, Mail, Github, Linkedin, Twitter, Heart, Wrench, BookOpen, Phone } from 'lucide-react';
 
 const AboutPage = () => {
 
